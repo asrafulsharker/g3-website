@@ -123,6 +123,39 @@
   }
 
 
+  /* feature section start */
+
+  .features{
+    display: flex;
+    margin: 130px 0px 0px 0px;
+    gap: 100px;
+  }
+
+  .feature-contant .card{
+    padding: 30px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+background: #FFF;
+box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.06);
+  }
+
+  .ten-years-badge{
+    border-radius: 8px;
+    background-color: #FF900E;
+    color: #FFF;
+    width: 342px;
+  }
+
+  .ten-years-badge h2{
+    font-size: 4rem;
+  }
+
+  .features .section-title{
+    border-left: 5px solid #FF900E;
+    padding-left: 20px;
+  }
+
+
   /* facts section */
   .facts-card-container {
     display: flex;
